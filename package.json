@@ -1,0 +1,22 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "firstproject": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.12.0",
+    "eslint-plugin-vue": "^9.28.0",
+    "globals": "^15.10.0"
+  }
+}
+
